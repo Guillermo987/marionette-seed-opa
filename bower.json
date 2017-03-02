@@ -1,7 +1,7 @@
 {
   "name": "marionette-seed",
   "version": "0.0.1",
-  "homepage": "https://github.com/pbking/marionette-seed",
+  "homepage": "https://github.com/Guillermo987/marionette-seed-opa",
   "author": "pbking",
   "description": "Marionette Seed",
   "main": "index.html",
@@ -13,10 +13,10 @@
     "bower_components"
   ],
   "devDependencies": {
-    "marionette": "~1.8.5",
-    "requirejs": "~2.1.11",
-    "require-handlebars-plugin": "~0.8.0",
-    "crossroads": "~0.12.0",
+    "marionette": "~3.2.0",
+    "requirejs": "~2.3.3",
+    "require-handlebars-plugin": "~2.1",
+    "crossroads": "~0.12.2",
     "signals": "~1.0.0"
   }
 }
