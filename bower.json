@@ -1,0 +1,22 @@
+{
+  "name": "marionette-seed",
+  "version": "0.0.1",
+  "homepage": "https://github.com/pbking/marionette-seed",
+  "author": "pbking",
+  "description": "Marionette Seed",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "marionette": "~1.8.5",
+    "requirejs": "~2.1.11",
+    "require-handlebars-plugin": "~0.8.0",
+    "crossroads": "~0.12.0",
+    "signals": "~1.0.0"
+  }
+}
