@@ -15,7 +15,7 @@
   "devDependencies": {
     "marionette": "~3.2.0",
     "requirejs": "~2.3.3",
-    "require-handlebars-plugin": "~2.1",
+    "require-handlebars-plugin": "~1.0",
     "crossroads": "~0.12.2",
     "signals": "~1.0.0"
   }

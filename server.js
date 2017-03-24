@@ -7,3 +7,11 @@ var server = connect()
     .listen(devPort);
 
 console.log('app started on port : ' + devPort);
+
+// var connect = require('connect'),
+//     serveStatic = require('serve-static');
+//
+// var app = connect();
+//
+// app.use(serveStatic("../angularjs"));
+// app.listen(5000);
